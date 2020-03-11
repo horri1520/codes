@@ -1,0 +1,92 @@
+{id: 1, user: "matsumoto_sp", title: "証明書300万件を強制失効。Let's Encrypt に一体何が起きたのか？", new: False, time: "3 days ago", like: 507}
+{id: 2, user: "fruitriin", title: "今からVue.jsを始める人のための「知るのを後回しにしてよい」n個のこと", new: False, time: "2 days ago", like: 533}
+{id: 3, user: "kfurumiya", title: "ReactはウェブやHTMLとは特に関係のないライブラリです", new: False, time: "2 days ago", like: 345}
+{id: 4, user: "br_branch", title: "プロジェクトリーダーというお仕事", new: False, time: "1 day ago", like: 704}
+{id: 5, user: "kyogom", title: "個人開発でDBコストを抑えるならEC2という選択肢もある", new: False, time: "2 days ago", like: 139}
+{id: 6, user: "lycoris102", title: "[Unity] Unity1週間ゲームジャム (逆) にて実装した演出をまとめる", new: False, time: "1 day ago", like: 108}
+{id: 7, user: "takehanKosuke", title: "リクルートスピードハッカソンに参加したのでその感想や勉強したことまとめ", new: False, time: "1 day ago", like: 97}
+{id: 8, user: "ellbrid", title: "CPU Steal Time 入門", new: False, time: "2 days ago", like: 71}
+{id: 9, user: "hkzm", title: "あなたの Window 10 には何種類の Python が入っていますか？私は5種類でしたが。", new: False, time: "2 days ago", like: 55}
+{id: 10, user: "cypher256", title: "Spring Boot 爆速パフォーマンスアップ", new: False, time: "1 day ago", like: 48}
+{id: 11, user: "NegeLon", title: "三角関数に隠された組み合わせの秘密", new: False, time: "1 day ago", like: 47}
+{id: 12, user: "yuppymam", title: "iMac の Bluetooth をオフにして詰んだときの対処法", new: False, time: "2 days ago", like: 34}
+{id: 13, user: "YuiKasuga", title: "【三田本店】機械学習エンジニアによるラーメン二郎、食べログ口コミ分析【ソース付き】", new: False, time: "3 days ago", like: 69}
+{id: 14, user: "ucan-lab", title: "Mac を買ったら必ずやっておきたい初期設定", new: True, time: "17 hours ago", like: 213}
+{id: 15, user: "saki-engineering", title: "Electronで1からデスクトップアプリを作り、electron-builderを使ってビルド・リリースするまで", new: False, time: "1 day ago", like: 44}
+{id: 16, user: "kskumgk63", title: "［Go］1行加えるだけで interface の実装を強制するテクニック", new: False, time: "1 day ago", like: 27}
+{id: 17, user: "matamatanot", title: "Next.js の getStaticProps と getStaticPaths と getServerSideProps の概要解説", new: False, time: "1 day ago", like: 20}
+{id: 18, user: "ue_sho", title: "【競プロライブラリ】mint(modint)で学ぶC++", new: False, time: "3 days ago", like: 41}
+{id: 19, user: "kurilab", title: "最新物理ベースレンダラー Mitsuba2を触ってみる", new: False, time: "1 day ago", like: 20}
+{id: 20, user: "sizumita", title: "discord.py入門(1)", new: False, time: "2 days ago", like: 34}
+{id: 21, user: "mkeeda", title: "DroidKaigi 2020 アプリでの学び【Kotlin Coroutines Flow 編】", new: False, time: "2 days ago", like: 22}
+{id: 22, user: "sizumita", title: "discord.py入門(2)", new: False, time: "2 days ago", like: 16}
+{id: 23, user: "fcr0842361", title: "FT232Hインターフェース用RTLモジュールを自作する", new: True, time: "1 day ago", like: 9}
+{id: 24, user: "suin", title: "TypeScript: 計算結果をキャッシュする関数", new: False, time: "3 days ago", like: 29}
+{id: 25, user: "tanakh", title: "cargo publish する前に埋めておきたい Cargo.toml の項目に関するメモ", new: True, time: "1 day ago", like: 16}
+{id: 26, user: "ababup1192", title: "Vue.jsとElmを比べてみよう！ テンプレートとview編", new: False, time: "3 days ago", like: 36}
+{id: 27, user: "Namu3", title: "中学生でAtCoder緑になった感想(色変記事)", new: True, time: "15 hours ago", like: 50}
+{id: 28, user: "keitah", title: "コードレビューのLGTMをカッコよく出してみる", new: True, time: "1 day ago", like: 10}
+{id: 29, user: "Shinya-Yamaguchi", title: "【技術書展】「エンジニアの心を整える技術2」を読んで感じたこと。", new: True, time: "19 hours ago", like: 60}
+{id: 30, user: "sanpo_shiho", title: "初心者が流れで学ぶDocker/Kubernetes超入門", new: True, time: "17 hours ago", like: 76}
+
+{id: 1, user: "Yametaro", title: "ワイの正規表現入門", new: False, time: "7 days ago", like: 880}
+{id: 2, user: "navitime_tech", title: "ls よりも exa を使おう！モダンな Linux コマンド達を紹介", new: False, time: "13 days ago", like: 2580}
+{id: 3, user: "kazumaz", title: "【Flutter】アプリ開発_初心者のアプリをプロっぽくする最強のpackageを紹介", new: True, time: "5 days ago", like: 606}
+{id: 4, user: "dd0125", title: "CSS(SCSS) で作るペルソナ5 風メッセージウィンドウ", new: False, time: "8 days ago", like: 584}
+{id: 5, user: "gakuri", title: "Excel設計書を抹殺したくて4年前にWiki設計書を導入したら、意外とちゃんと開発回ってた話。", new: False, time: "14 days ago", like: 1452}
+{id: 6, user: "__shinji__", title: "【翻訳】コードは書けないけど、1人で作ったwebサービスを収益化した話", new: False, time: "7 days ago", like: 466}
+{id: 7, user: "_akiyama_", title: "Pythonの「痒いところに手が届くなぁ・・・」と思う機能", new: False, time: "8 days ago", like: 506}
+{id: 8, user: "ryo-a", title: "N予備校のプログラミング教材編集に約3年携わって得られた知見", new: True, time: "3 days ago", like: 469}
+{id: 9, user: "matsumoto_sp", title: "証明書300万件を強制失効。Let's Encrypt に一体何が起きたのか？", new: True, time: "3 days ago", like: 508}
+{id: 10, user: "tomikiya", title: "[Excel]実務で役に立たない！？VBAを使わないで3D迷路を作る", new: False, time: "6 days ago", like: 387}
+{id: 11, user: "fruitriin", title: "今からVue.jsを始める人のための「知るのを後回しにしてよい」n個のこと", new: True, time: "2 days ago", like: 533}
+{id: 12, user: "matsumoto_sp", title: "Let's Encrypt に重大なバグが発覚。該当サイトは2020/3/4 までに対応が必須", new: False, time: "5 days ago", like: 379}
+{id: 13, user: "terry_6518", title: "Gitに慣れていない人がよくハマるパターンと対処法まとめ", new: True, time: "4 days ago", like: 370}
+{id: 14, user: "yucatio", title: "正規表現の可視化ツールRegulexを使おう！", new: False, time: "7 days ago", like: 347}
+{id: 15, user: "youwht", title: "声に出して読みたい美しいPython用語18選。R18例文付き", new: True, time: "5 days ago", like: 326}
+{id: 16, user: "mi_upto", title: "【JavaScript】 便利メソッド 【ゆるっとまとめ】", new: True, time: "4 days ago", like: 313}
+{id: 17, user: "hukusuke1007", title: "FlutterとFirebaseで開発した 英語の瞬間翻訳トレーニングアプリ Lala の技術", new: False, time: "6 days ago", like: 305}
+{id: 18, user: "yuneco", title: "VueとCSSとTypeScriptでシューティングゲーム「ネコメザシアタック2020」を作ったのでソースと解説", new: False, time: "7 days ago", like: 307}
+{id: 19, user: "kaya517", title: "[GitHub] 東京都公式 新型コロナウイルス対策サイトがプルリク募集してる[COVID-19]", new: True, time: "4 days ago", like: 298}
+{id: 20, user: "honehoney", title: "「たけのこの里」を「きのこの山」に『正しく』自動で修正して差し上げるプログラム", new: False, time: "13 days ago", like: 1302}
+{id: 21, user: "omiita", title: "ついにAdamを超えた！最新の最適化アルゴリズム「RAdam」解説", new: False, time: "6 days ago", like: 256}
+{id: 22, user: "yasuoyasuo", title: "技術負債の削減に向けた提案～「DX Criteria」の活用～", new: False, time: "7 days ago", like: 224}
+{id: 23, user: "honehoney", title: "俺・・・感情がねえんだ・・・ ←色んな感情推定器で本当に感情が無いのか分析してみる", new: True, time: "5 days ago", like: 199}
+{id: 24, user: "Rho", title: "もう数え上げも怖くない ~競プロ数え上げ問題35選~", new: True, time: "3 days ago", like: 191}
+{id: 25, user: "KEN_KEN2", title: "中国の最新論文の方式で日本のコロナウィルスの感染者数を予測してみた", new: False, time: "8 days ago", like: 211}
+{id: 26, user: "tokki7127", title: "Vue.js研修資料", new: False, time: "9 days ago", like: 234}
+{id: 27, user: "warapuri", title: "ZoomでFaceRig使ってバーチャル参加する方法", new: False, time: "8 days ago", like: 197}
+{id: 28, user: "tzkoba", title: "2020年現在のNewSQLについて", new: False, time: "11 days ago", like: 858}
+{id: 29, user: "saboyutaka", title: "GraphQLの全体像とWebApp開発のこれから", new: False, time: "14 days ago", like: 840}
+{id: 30, user: "kfurumiya", title: "ReactはウェブやHTMLとは特に関係のないライブラリです", new: True, time: "2 days ago", like: 347}
+
+{id: 1, user: "gakuri", title: "メンバーに恨まれそうな3つのコードレビュー施策を徹底したら、逆にメンバーが爆速で成長した話", new: False, time: "1 month ago", like: 3173}
+{id: 2, user: "Dragon-taro", title: "2020年にWebフロントエンドを勉強する人が作るべきたったひとつのアプリ", new: False, time: "1 month ago", like: 2061}
+{id: 3, user: "navitime_tech", title: "ls よりも exa を使おう！モダンな Linux コマンド達を紹介", new: True, time: "13 days ago", like: 2580}
+{id: 4, user: "ddtaka", title: "プログラムの可読性を上げるための条件分岐を減らす方法7個", new: True, time: "21 days ago", like: 1816}
+{id: 5, user: "G-awa", title: "【動画付き】 draw.io 使い方まとめ 〜エンジニアでなくても使えるTips集〜", new: False, time: "28 days ago", like: 1336}
+{id: 6, user: "e869120", title: "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】", new: True, time: "18 days ago", like: 1195}
+{id: 7, user: "omiita", title: "「募ってはいるが、募集はしていない」 人たちへ", new: True, time: "19 days ago", like: 1147}
+{id: 8, user: "jagaapple", title: "TypeScriptをプロダクト開発に使う上でのベストプラクティスと心得", new: False, time: "1 month ago", like: 1046}
+{id: 9, user: "hamaup", title: "WEB開発に役に立つAPI一覧+API毎に関連するQiita記事を分類 ！", new: False, time: "1 month ago", like: 1043}
+{id: 10, user: "honehoney", title: "「たけのこの里」を「きのこの山」に『正しく』自動で修正して差し上げるプログラム", new: True, time: "13 days ago", like: 1302}
+{id: 11, user: "e869120", title: "高校生がアルゴリズムとスパコンの力で、京都の碁盤目状道路を13.9%効率化した話", new: True, time: "22 days ago", like: 1007}
+{id: 12, user: "gakuri", title: "Excel設計書を抹殺したくて4年前にWiki設計書を導入したら、意外とちゃんと開発回ってた話。", new: True, time: "14 days ago", like: 1452}
+{id: 13, user: "yuki_ycino", title: "DXを大幅に低下させるDocker for Macを捨ててMac最速のDocker環境を手に入れる", new: True, time: "21 days ago", like: 931}
+{id: 14, user: "mazgi", title: "最短でWeb業界で給与を得るための最小知識2020", new: True, time: "29 days ago", like: 894}
+{id: 15, user: "ahera", title: "Chrome 80が密かに呼び寄せる地獄 ～ SameSite属性のデフォルト変更を調べてみた", new: False, time: "1 month ago", like: 810}
+{id: 16, user: "alt_yamamoto", title: "良いコードの書き方", new: False, time: "1 month ago", like: 3148}
+{id: 17, user: "imataka7", title: "【PWA】YouTubeをみんなでワイワイ見るためのサービス、DJ7をローンチしました！", new: False, time: "1 month ago", like: 714}
+{id: 18, user: "rnitta", title: "お前らのコミットは汚い", new: True, time: "15 days ago", like: 772}
+{id: 19, user: "Saku731", title: "Pythonでゼロからでもサービス開発・公開できる学習ロードマップ", new: True, time: "22 days ago", like: 787}
+{id: 20, user: "saboyutaka", title: "GraphQLの全体像とWebApp開発のこれから", new: True, time: "14 days ago", like: 840}
+{id: 21, user: "tzkoba", title: "2020年現在のNewSQLについて", new: True, time: "11 days ago", like: 858}
+{id: 22, user: "rana_kualu", title: "JavaScript ベスト・オブ・ザ・イヤー 2019", new: False, time: "1 month ago", like: 650}
+{id: 23, user: "e869120", title: "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【中級編：目指せ水色コーダー！】", new: True, time: "18 days ago", like: 670}
+{id: 24, user: "nokonoko_1203", title: "ラズパイでやらなければいけない４つのセキュリティ対策！", new: False, time: "1 month ago", like: 605}
+{id: 25, user: "yuki-naka", title: "個人的にオススメしたいTech系YouTuberたち", new: True, time: "28 days ago", like: 600}
+{id: 26, user: "akaoni_sohei", title: "Webサービス（AICEVOTE）がバズってサーバーと高校生開発者に起きたことと反省点", new: True, time: "27 days ago", like: 583}
+{id: 27, user: "kfurumiya", title: "7年間使ってきたWordPressを捨ててContentful+Gatsby+Netlifyにしたら爆速になったし経緯とか教訓とか語る", new: True, time: "14 days ago", like: 694}
+{id: 28, user: "mtoyopet", title: "Vue開発者のためのVue.jsベストプラクティス集15選", new: False, time: "1 month ago", like: 1234}
+{id: 29, user: "mizchi", title: "Webpack チャンク最適 テクニック", new: True, time: "12 days ago", like: 543}
+{id: 30, user: "takayuki", title: "スマホアプリのUIデザインについて知っておきたいこと", new: True, time: "1 month ago", like: 503}

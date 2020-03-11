@@ -1,0 +1,169 @@
+gakuri
+メンバーに恨まれそうな3つのコードレビュー施策を徹底したら、逆にメンバーが爆速で成長した話
+bygakuri
+1 month ago
+3173
+Dragon-taro
+2020年にWebフロントエンドを勉強する人が作るべきたったひとつのアプリ
+byDragon-taro
+1 month ago
+2061
+navitime_tech
+ls よりも exa を使おう！モダンな Linux コマンド達を紹介
+new
+bynavitime_tech
+13 days ago
+2580
+ddtaka
+プログラムの可読性を上げるための条件分岐を減らす方法7個
+new
+byddtaka
+21 days ago
+1816
+G-awa
+【動画付き】 draw.io 使い方まとめ 〜エンジニアでなくても使えるTips集〜
+byG-awa
+28 days ago
+1336
+e869120
+レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】
+new
+bye869120
+18 days ago
+1195
+omiita
+「募ってはいるが、募集はしていない」 人たちへ
+new
+byomiita
+19 days ago
+1147
+jagaapple
+TypeScriptをプロダクト開発に使う上でのベストプラクティスと心得
+byjagaapple
+1 month ago
+1046
+hamaup
+WEB開発に役に立つAPI一覧+API毎に関連するQiita記事を分類 ！
+byhamaup
+1 month ago
+1043
+honehoney
+「たけのこの里」を「きのこの山」に『正しく』自動で修正して差し上げるプログラム
+new
+byhonehoney
+13 days ago
+1302
+e869120
+高校生がアルゴリズムとスパコンの力で、京都の碁盤目状道路を13.9%効率化した話
+new
+bye869120
+22 days ago
+1007
+gakuri
+Excel設計書を抹殺したくて4年前にWiki設計書を導入したら、意外とちゃんと開発回ってた話。
+new
+bygakuri
+14 days ago
+1452
+yuki_ycino
+DXを大幅に低下させるDocker for Macを捨ててMac最速のDocker環境を手に入れる
+new
+byyuki_ycino
+21 days ago
+931
+mazgi
+最短でWeb業界で給与を得るための最小知識2020
+new
+bymazgi
+29 days ago
+894
+ahera
+Chrome 80が密かに呼び寄せる地獄 ～ SameSite属性のデフォルト変更を調べてみた
+byahera
+1 month ago
+810
+alt_yamamoto
+良いコードの書き方
+byalt_yamamoto
+1 month ago
+3148
+imataka7
+【PWA】YouTubeをみんなでワイワイ見るためのサービス、DJ7をローンチしました！
+byimataka7
+1 month ago
+714
+rnitta
+お前らのコミットは汚い
+new
+byrnitta
+15 days ago
+772
+Saku731
+Pythonでゼロからでもサービス開発・公開できる学習ロードマップ
+new
+bySaku731
+22 days ago
+787
+saboyutaka
+GraphQLの全体像とWebApp開発のこれから
+new
+bysaboyutaka
+14 days ago
+840
+tzkoba
+2020年現在のNewSQLについて
+new
+bytzkoba
+11 days ago
+858
+rana_kualu
+JavaScript ベスト・オブ・ザ・イヤー 2019
+byrana_kualu
+1 month ago
+650
+e869120
+レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【中級編：目指せ水色コーダー！】
+new
+bye869120
+18 days ago
+670
+nokonoko_1203
+ラズパイでやらなければいけない４つのセキュリティ対策！
+bynokonoko_1203
+1 month ago
+605
+yuki-naka
+個人的にオススメしたいTech系YouTuberたち
+new
+byyuki-naka
+28 days ago
+600
+akaoni_sohei
+Webサービス（AICEVOTE）がバズってサーバーと高校生開発者に起きたことと反省点
+new
+byakaoni_sohei
+27 days ago
+583
+kfurumiya
+7年間使ってきたWordPressを捨ててContentful+Gatsby+Netlifyにしたら爆速になったし経緯とか教訓とか語る
+new
+bykfurumiya
+14 days ago
+694
+mtoyopet
+Vue開発者のためのVue.jsベストプラクティス集15選
+bymtoyopet
+1 month ago
+1234
+mizchi
+Webpack チャンク最適 テクニック
+new
+bymizchi
+12 days ago
+543
+takayuki
+スマホアプリのUIデザインについて知っておきたいこと
+new
+bytakayuki
+1 month ago
+503
