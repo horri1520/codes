@@ -1,9 +1,5 @@
-with open('requirements.txt', 'r') as log:
-    loglines = 0
-    for line in log:
-        loglines += 1
-f = open('requirements.txt', 'r')
-lib = f.readlines()
-for i in range(loglines):
-    Lib = lib[i].split("==")
-    print(Lib[0])
+r = open('./requirements.txt', 'r')
+packages = r.readlines()
+for i in packages:
+    package = i.split('=')
+    print('- {}'.format(package[0]))
