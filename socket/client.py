@@ -1,10 +1,12 @@
 import socket
 import sys
 import time
+from time import sleep
+
 
 
 HOSTNAME = '192.168.0.110'
-PORT = 5000
+PORT = 5555
 INTERVAL = 1
 RETRYTIMES = 3
 
@@ -31,9 +33,12 @@ def main():
     while True:
         try:
             data = s.recv(1024).decode()
+            if data == "":
+                print("server closed")
+                break
             print(data)
+            sleep(0.2)
         except KeyboardInterrupt:
-            s.close()
             break
         except Exception as e:
             print(str(e))

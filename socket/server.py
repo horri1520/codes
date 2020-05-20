@@ -5,7 +5,7 @@ from time import sleep
 
 
 HOSTNAME = '192.168.0.110'
-PORT = 5000
+PORT = 5555
 
 
 def main():
@@ -22,8 +22,9 @@ def main():
             connect.send(result)
             print("sent result data")
             sleep(0.2)
+            # 基本的には、frontend側から接続を切る仕様でいく
         except KeyboardInterrupt:
-            s.close()
+            s.shutdown(socket.)
             break
         except Exception as e:
             print(str(e))
